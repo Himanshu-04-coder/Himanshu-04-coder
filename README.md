@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Full Stack Developer and B.Tech IT student with strong interest in AI, web development, and problem-solving. Skilled in MERN Stack, Java, Python, SQL, and modern development tools, with a focus on building scalable and user-friendly applications while continuously learning emerging technologies.<br>
+I'm an aspiring Software Engineer and Full Stack Developer passionate about creating impactful digital experiences. I specialize in the MERN Stack and have experience working with JavaScript, Python, SQL, and modern development tools. I enjoy turning ideas into scalable applications, learning emerging technologies, and continuously improving my problem-solving and development skills. My goal is to build software that is efficient, reliable, and delivers a great user experience.<br>
 
 
 ## 🌐 Socials:
